@@ -19,7 +19,7 @@ Truy cập pgAdmin
 
 Đăng nhập:
 
-        Email: admin@example.com
+        Email: admin@binhbat.ai
 
         Password: admin123
 
@@ -32,7 +32,7 @@ Thêm kết nối PostgreSQL trong pgAdmin
             Host: postgres
             Port: 5432
             Username: admin
-            Password: secret
+            Password: admin123
             Database: mydb
 
 Dừng hệ thống
