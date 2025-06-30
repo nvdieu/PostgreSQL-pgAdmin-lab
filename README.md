@@ -3,11 +3,14 @@
 <h3 align="center">Trên cả Mac và Windows:</h3>
 
 
-### b1: Cài đặt Docker Desktop
+### b0: Cài đặt Docker Desktop
 Tải Docker Desktop tại đây: [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)
 
-
+### b1: Cài đặt Docker Desktop
 Khởi động Docker trước khi tiếp tục.
+
+### b2: Mở terminal (hoặc PowerShell trên Windows)
+Clone : 
 
 ### b2: Mở terminal (hoặc PowerShell trên Windows)
 Chạy lệnh: 
