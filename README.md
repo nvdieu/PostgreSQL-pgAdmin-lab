@@ -12,9 +12,9 @@ Khởi động Docker trước khi tiếp tục.
 ### b2: Mở terminal (hoặc PowerShell trên Windows)
 Clone : https://github.com/nvdieu/postgreSQL-lab.git
 
-cd postgreSQL-lab
+    cd    postgreSQL-lab
 
-docker compose up -d
+    docker compose up -d
 
 Truy cập pgAdmin
     Trình duyệt → mở địa chỉ: http://localhost:5050
