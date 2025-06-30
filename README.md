@@ -13,6 +13,7 @@ Khởi động Docker trước khi tiếp tục.
 Clone : https://github.com/nvdieu/postgreSQL-lab.git
 
 cd postgreSQL-lab
+
 docker compose up -d
 
 Truy cập pgAdmin
