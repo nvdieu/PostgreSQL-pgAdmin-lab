@@ -10,7 +10,7 @@ Tải Docker Desktop tại đây: [https://www.docker.com/products/docker-deskto
 Khởi động Docker trước khi tiếp tục.
 
 ### b2: Mở terminal (hoặc PowerShell trên Windows)
-Clone : https://github.com/nvdieu/postgreSQL-lab.git
+git clone : https://github.com/nvdieu/postgreSQL-lab.git
 
     cd postgreSQL-lab
 
