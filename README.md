@@ -10,12 +10,10 @@ Tải Docker Desktop tại đây: [https://www.docker.com/products/docker-deskto
 Khởi động Docker trước khi tiếp tục.
 
 ### b2: Mở terminal (hoặc PowerShell trên Windows)
-Clone : 
+Clone : https://github.com/nvdieu/postgreSQL-lab.git
 
-### b2: Mở terminal (hoặc PowerShell trên Windows)
-Chạy lệnh: 
-
-    docker compose up -d
+cd postgreSQL-lab
+docker compose up -d
 
 Truy cập pgAdmin
     Trình duyệt → mở địa chỉ: http://localhost:5050
