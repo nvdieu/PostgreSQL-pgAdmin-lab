@@ -22,6 +22,5 @@ services:
       - "5050:80"
     volumes:
       - ./pgadmin-data:/var/lib/pgadmin
-      - ./pgadmin-queries:/var/lib/pgadmin/storage/admin_binhbat.ai  # ← Thư mục lưu query
     depends_on:
       - postgres
