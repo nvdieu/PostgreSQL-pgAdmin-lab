@@ -22,7 +22,7 @@ Truy cập pgAdmin
 
         Email: admin@binhbat.ai
 
-        Password: admin123
+        Password: 1234
 
 Thêm kết nối PostgreSQL trong pgAdmin
 
@@ -33,7 +33,7 @@ Thêm kết nối PostgreSQL trong pgAdmin
             Host: postgres
             Port: 5432
             Username: admin
-            Password: admin123
+            Password: 1234
             Database: mydb
 
 Dừng hệ thống
