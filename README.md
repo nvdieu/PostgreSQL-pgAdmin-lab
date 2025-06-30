@@ -35,7 +35,6 @@ Thêm kết nối PostgreSQL trong pgAdmin
             Port: 5432
             Username: admin
             Password: 1234
-            Database: mydb
 
 Dừng hệ thống
 
