@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   postgres:
-    image: postgres:15
+    image: postgres:17
     container_name: pg_lab_postgres
     environment:
       POSTGRES_USER: admin
@@ -13,7 +13,7 @@ services:
       - ./pgdata:/var/lib/postgresql/data
       - ./init:/docker-entrypoint-initdb.d
   pgadmin:
-    image: dpage/pgadmin4
+    image: dpage/pgadmin4:8
     container_name: pg_lab_pgadmin
     environment:
       PGADMIN_DEFAULT_EMAIL: admin@binhbat.ai
