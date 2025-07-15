@@ -1,6 +1,5 @@
 # PostgreSQL-pgAdmin-lab
 <h3 align="center">Cách tạo và chạy stack PostgreSQL + pgAdmin4 bằng Docker</h3>
-<h3 align="center">Mac, Windows:</h3>
 
 
 ### b0: 
