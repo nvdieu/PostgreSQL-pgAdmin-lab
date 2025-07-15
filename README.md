@@ -5,7 +5,7 @@
 
 ### b0: 
 #### Cài đặt Docker Desktop
- [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)
+ [https://docs.docker.com/desktop/setup/install/windows-install/](https://docs.docker.com/desktop/setup/install/windows-install/))
 
 #### Cài đặt Github CLI
 
