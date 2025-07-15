@@ -1,4 +1,4 @@
-# postgreSQL-lab
+# PostgreSQL-pgAdmin-lab
 <h3 align="center">Cách tạo và chạy stack PostgreSQL + pgAdmin4 bằng Docker</h3>
 <h3 align="center">Trên cả Mac và Windows:</h3>
 
@@ -10,9 +10,9 @@ Tải Docker Desktop tại đây: [https://www.docker.com/products/docker-deskto
 Khởi động Docker trước khi tiếp tục.
 
 ### b2: Mở terminal (hoặc PowerShell trên Windows)
-git clone : https://github.com/nvdieu/postgreSQL-lab.git
+git clone https://github.com/nvdieu/postgreSQL-lab.git
 
-    cd postgreSQL-lab
+    cd PostgreSQL-pgAdmin-lab
 
     docker compose up -d
 
