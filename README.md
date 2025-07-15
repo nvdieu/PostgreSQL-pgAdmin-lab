@@ -11,6 +11,9 @@
 
 [https://cli.github.com/](https://cli.github.com/)
 
+#### Hoặc cài Github Desktop
+[https://desktop.github.com/download/](https://desktop.github.com/download/)
+
 ### b1: Khởi động Docker Desktop
 Khởi động Docker trước khi tiếp tục.
 
