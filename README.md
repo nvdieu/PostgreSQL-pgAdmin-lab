@@ -7,12 +7,9 @@
  Tải Docker Desktop tại đây: [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)
 
 
-#### Cài đặt Github CLI
+#### Cài đặt Git 
 
-[https://cli.github.com/](https://cli.github.com/)
-
-#### Hoặc cài Github Desktop
-[https://desktop.github.com/download/](https://desktop.github.com/download/)
+[https://git-scm.com/](https://git-scm.com/)
 
 ### b1: Khởi động Docker Desktop
 Khởi động Docker trước khi tiếp tục.
