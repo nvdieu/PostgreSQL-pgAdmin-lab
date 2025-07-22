@@ -14,10 +14,14 @@
 ### b1: Khởi động Docker Desktop
 Khởi động Docker trước khi tiếp tục.
 
-### b2: Mở terminal (hoặc PowerShell trên Windows)
+### b2:
+#### Clone the Git repository:
+
 git clone [https://github.com/nvdieu/PostgreSQL-pgAdmin-lab.git](https://github.com/nvdieu/PostgreSQL-pgAdmin-lab.git)
 
 ### Hoặc có thể download file .ZIP từ link trên và giải nén.
+
+### b3:
 
     cd PostgreSQL-pgAdmin-lab
 
@@ -43,7 +47,7 @@ Thêm kết nối PostgreSQL trong pgAdmin
             Username: admin
             Password: 1234
 
-Dừng hệ thống
+## b4: Dừng hệ thống
 
 Khi không dùng nữa, bạn có thể dừng các container:
 
