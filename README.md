@@ -47,8 +47,17 @@ Thêm kết nối PostgreSQL trong pgAdmin
             Username: admin
             Password: 1234
 
-## b4: Dừng hệ thống
+## b4: Dừng phiên làm việc
 
 Khi không dùng nữa, bạn có thể dừng các container:
 
     docker compose down
+
+## b5: Vào lại phiên làm việc mới
+  
+  Mở Docker: Start lại Container PostgreSQL-pgAdmin-lab
+  vào lại localhost:5050
+
+## b6: Lưu ý các file Script sql khi thực hành được lưu ở thư mục ../PostgreSQL-pgAdmin-lab/pgadmin-data/storage/admin_binhbat.ai
+
+  
