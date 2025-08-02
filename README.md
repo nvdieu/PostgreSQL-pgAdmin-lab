@@ -50,13 +50,11 @@ Thêm kết nối PostgreSQL trong pgAdmin
 
 ## b4: Dừng phiên làm việc
 
-Khi không dùng nữa, bạn có thể dừng các container:
-
-    docker compose down
+    Vào Docker, Stop container: PostgreSQL-pgAdmin-lab
 
 ## b5: Vào lại phiên làm việc mới
   
-    Mở Docker: Start lại Container PostgreSQL-pgAdmin-lab
+    Mở Docker: Start lại container: PostgreSQL-pgAdmin-lab
   
     Vào lại localhost:5050
 
