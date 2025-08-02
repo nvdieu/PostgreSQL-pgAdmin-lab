@@ -56,6 +56,7 @@ Khi không dùng nữa, bạn có thể dừng các container:
 ## b5: Vào lại phiên làm việc mới
   
   Mở Docker: Start lại Container PostgreSQL-pgAdmin-lab
+  
   vào lại localhost:5050
 
 ## b6: Lưu ý các file Script sql khi thực hành được lưu ở thư mục 
